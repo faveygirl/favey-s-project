@@ -1,3 +1,2 @@
-FLUTTERWAVE POST-  https://twitter.com/favour_king/status/1164885445374816258?s=19
-LUCID BLOG-  https://lucid.blog/faitygal/post/1566582707
+https://lucid.blog/faitygal/post/why-css-has-helped-html-much-better-0b2
 
